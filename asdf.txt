@@ -1,0 +1,19 @@
+copy-webpack-plugin   => 复制文件
+@babel/core   @babel/preset-env  => es6 to es5
+Less       => less to css
+
+webpack webpack-cli webpack-dev-server(hmr=>热更新)
+
+webpack --config(指定配置文件)  webpack.config.js(default) => 根据配置项进行编译
+
+
+
+.gitignore   // 排队文件
+
+git init     // 初始化git项目 => 创建一个git项目
+
+git status   // 查看项目状态
+
+git add      // 添加文件到git工作区  git add . （all）
+
+git commit   // 提交       git commit -m '初始化小程序模板项目'
